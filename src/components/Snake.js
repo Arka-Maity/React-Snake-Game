@@ -1,0 +1,11 @@
+import React from 'react';
+
+export default (props) => {
+;
+
+  return (
+    <div>
+          <div className="snake-dot"></div>
+    </div>
+  )
+}
